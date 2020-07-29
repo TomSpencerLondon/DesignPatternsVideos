@@ -1,4 +1,4 @@
-package com.codurance.strategyadapter;
+package com.codurance.strategyadapter.entities;
 
 import com.codurance.strategyadapter.behaviors.FlyNoWay;
 

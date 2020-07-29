@@ -1,7 +1,8 @@
-package com.codurance.strategyadapter;
+package com.codurance.strategyadapter.entities;
 
 import com.codurance.strategyadapter.behaviors.FlyBehavior;
 import com.codurance.strategyadapter.behaviors.QuackBehavior;
+import com.codurance.strategyadapter.entities.Duck;
 
 public abstract class DuckImpl implements Duck {
   FlyBehavior flyBehavior;
